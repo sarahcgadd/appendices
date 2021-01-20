@@ -1,0 +1,306 @@
+,Name,Zone,Neighbours
+2,Aldgate East Station,1,158_264_297
+3,Aldgate Station,1,158_264
+7,Angel Station,1,191_146
+11,Baker Street Station,1,244_28_94_104_82_166_214
+13,Bank Station,1,169_280_245_171_158_159
+14,Barbican Station,1,92_171
+18,Bayswater Station,1,189_195
+25,Blackfriars Station,1,
+28,Bond Street Station,1,165_194_11_105
+29,Borough Station,1,159_84
+44,Cannon Street Station,1,169_164
+48,Chancery Lane Station,1,245_128
+49,Charing Cross Station,1,153_87_199
+60,Covent Garden Station,1,128_153
+74,Earl's Court Station,1,140_285_124_99_17_291
+81,Edgware Road Bakerloo Station,1,82_166_195
+82,Edgware Road Circle Station,1,81_11_195
+84,Elephant & Castle Station,1,150_29_138
+87,Embankment Station,1,280_49_295_256
+89,Euston Square Station,1,146_104
+90,Euston Station,1,40_173_278_146
+92,Farringdon Station,1,14_146
+99,Gloucester Road Station,1,234_124_74
+102,Goodge Street Station,1,260_278
+104,Great Portland Street Station,1,89_11
+105,Green Park Station,1,28_295_194_274_199_135
+124,High Street Kensington Station,1,189_99_74
+128,Holborn Station,1,225_60_48_260
+135,Hyde Park Corner Station,1,105_148
+146,King's Cross St. Pancras Station,1,125_90_39_225_7_89_92
+148,Knightsbridge Station,1,135_234
+150,Lambeth North Station,1,280_84
+151,Lancaster Gate Station,1,165_210
+158,Liverpool Street Station,1,171_3_2_24_13
+159,London Bridge Station,1,23_242_29_13
+164,Mansion House Station,1,44_256
+165,Marble Arch Station,1,28_151
+166,Marylebone Station,1,11_81
+169,Monument Station,1,13_264_44
+171,Moorgate Station,1,191_13_14_158
+189,Notting Hill Gate Station,1,18_124_210_129
+191,Old Street Station,1,7_171
+194,Oxford Circus Station,1,214_199_278_105_260_28
+195,Paddington Station,1,82_81_18_220_279
+199,Piccadilly Circus Station,1,153_105_194_49
+200,Pimlico Station,1,273_274
+210,Queensway Station,1,151_189
+214,Regent's Park Station,1,194_11
+225,Russell Square Station,1,146_128
+230,Sloane Square Station,1,274_234
+234,South Kensington Station,1,230_99_148
+242,Southwark Station,1,159_280
+243,St. James's Park Station,1,295_274
+245,St. Paul's Station,1,13_48
+256,Temple Station,1,164_87
+260,Tottenham Court Road Station,1,128_194_102_153
+263,Tower Gateway Station,1,
+264,Tower Hill Station,1,3_2_169
+265,Tufnell Park Station,2,141
+273,Vauxhall Station,1,249_200
+274,Victoria Station,1,105_200_243_230
+278,Warren Street Station,1,90_102_194
+280,Waterloo Station,1,13_87_150_138_242_295
+295,Westminster Station,1,280_105_87_243
+4,All Saints Station,2,
+10,Arsenal Station,2,95_130
+17,Barons Court Station,2,110_291_74
+22,Belsize Park Station,2,47
+23,Bermondsey Station,2,41_159
+24,Bethnal Green Station,2,167_158
+27,Blackwall Station,2,
+32,Bow Church Station,2,
+33,Bow Road Station,2,167
+35,Brixton Station,2,249
+39,Caledonian Road Station,2,130_146
+40,Camden Town Station,2,141_47_173_90
+41,Canada Water Station,2,42_23
+42,Canary Wharf Station,2,41
+47,Chalk Farm Station,2,22_40
+54,Clapham Common Station,2,55
+55,Clapham North Station,2,54_249
+61,Crossharbour & London Arena Station,2,
+70,Devons Road Station,2,
+75,East Acton Station,2,296
+94,Finchley Road Station,2,288_255_11
+95,Finsbury Park Station,2,10_125
+96,Fulham Broadway Station,2,285_196
+101,Goldhawk Road Station,2,111_229
+110,Hammersmith (D & P) Station,2,111_17_211
+111,Hammersmith Station,2,110_101
+122,Heron Quays Station,2,
+125,Highbury & Islington Station,2,95_146
+129,Holland Park Station,2,228_189
+130,Holloway Road Station,2,10_39
+137,Island Gardens Station,2,
+138,Kennington Station,2,193_84_280
+139,Kensal Green Station,2,208
+140,Kensington (Olympia) Station,2,74
+141,Kentish Town Station,2,265_40
+144,Kilburn Park Station,2,208_162
+145,Kilburn Station,2,288
+149,Ladbroke Grove Station,2,293_152
+152,Latimer Road Station,2,149_303
+153,Leicester Square Station,1,260_49_60_199
+157,Limehouse Station,2,
+162,Maida Vale Station,2,144_279
+167,Mile End Station,2,33_248_24
+173,Mornington Crescent Station,2,40_90
+174,Mudchute Station,2,
+176,New Cross Gate Station,2,
+177,New Cross Station,2,
+193,Oval Station,2,138_249
+197,Parsons Green Station,2,207_96
+203,Poplar Station,2,
+207,Putney Bridge Station,2,197
+208,Queen's Park Station,2,139_144
+211,Ravenscourt Park Station,2,110_246
+218,Rotherhithe Station,2,
+220,Royal Oak Station,2,195_293
+227,Shadwell Station,2,
+228,Shepherd's Bush Central Station,2,129_296
+229,Shepherd's Bush Hammersmith & City Station,2,303_101
+236,South Quay Station,2,
+244,St. John's Wood Station,2,11_255
+246,Stamford Brook Station,2,211
+248,Stepney Green Station,2,167_297
+249,Stockwell Station,2,55_193_35_273
+254,Surrey Quays Station,2,
+255,Swiss Cottage Station,2,244_94
+277,Wapping Station,2,
+279,Warwick Avenue Station,2,162_195
+285,West Brompton Station,2,74_96
+288,West Hampstead Station,2,94_145
+290,West India Quay Station,2,
+291,West Kensington Station,2,74_17
+293,Westbourne Park Station,2,220_149
+294,Westferry Station,2,
+296,White City Station,2,303_228_75
+297,Whitechapel Station,2,2_248
+303,Wood Lane,2,296_152_229
+1,Acton Town Station,3,
+8,Archway Station,3,
+12,Balham Station,3,
+19,Beckton Park Station,3,
+20,Beckton Station,3,
+26,Blackhorse Road Station,3,
+31,Bounds Green Station,3,
+34,Brent Cross Station,3,
+36,Bromley-By-Bow Station,3,
+43,Canning Town Station,3,
+52,Chiswick Park Station,3,
+56,Clapham South Station,3,
+59,Colliers Wood Station,3,
+63,Custom House Station,3,
+64,Cutty Sark Station,3,
+65,Cyprus Station,3,
+69,Deptford Bridge Station,3,
+71,Dollis Hill Station,3,
+72,Ealing Broadway Station,3,
+73,Ealing Common Station,3,
+76,East Finchley Station,3,
+78,East India Station,3,
+79,East Putney Station,3,
+86,Elverson Road Station,3,
+97,Gallions Reach Station,3,
+100,Golders Green Station,3,
+107,Greenwich Station,3,
+108,Gunnersbury Station,3,
+112,Hampstead Station,3,
+113,Hanger Lane Station,3,
+114,Harlesden Station,3,
+121,Hendon Central Station,3,
+126,Highgate Station,3,
+143,Kew Gardens Station,3,
+154,Lewisham Station,3,
+155,Leyton Station,3,
+156,Leytonstone Station,3,
+160,London City Airport,3,
+163,Manor House Station,3,
+175,Neasden Station,3,
+179,North Acton Station,3,
+180,North Ealing Station,3,
+181,North Greenwich Station,3,
+184,Northfields Station,3,
+196,Park Royal Station,3,
+202,Plaistow Station,3,
+205,Prince Regent Station,3,
+206,Pudding Mill Lane Station,3,
+219,Royal Albert Station,3,
+221,Royal Victoria Station,3,
+226,Seven Sisters Station,3,
+232,South Ealing Station,3,
+238,South Wimbledon Station,3,
+240,Southfields Station,3,
+250,Stonebridge Park Station,3,
+251,Stratford Station,3,
+258,Tooting Bec Station,3,
+259,Tooting Broadway Station,3,
+261,Tottenham Hale Station,3,
+266,Turnham Green Station,3,
+267,Turnpike Lane Station,3,
+271,Upton Park Station,3,
+275,Walthamstow Central Station,3,
+284,West Acton Station,3,
+287,West Ham Station,3,
+298,Willesden Green Station,3,
+299,Willesden Junction Station,3,
+300,Wimbledon Park Station,3,
+301,Wimbledon Station,3,
+302,Wood Green Station,3,
+5,Alperton Station,4,
+9,Arnos Grove Station,4,
+15,Barking Station,4,
+16,Barkingside Station,4,
+30,Boston Manor Station,4,
+38,Burnt Oak Station,4,
+51,Chigwell Station,4,
+58,Colindale Station,4,
+77,East Ham Station,4,
+91,Fairlop Station,4,
+93,Finchley Central Station,4,
+98,Gants Hill Station,4,
+103,Grange Hill Station,4,
+106,Greenford Station,4,
+109,Hainault Station,4,
+132,Hounslow Central Station,4,
+133,Hounslow East Station,4,
+142,Kenton Station,4,
+147,Kingsbury Station,4,
+168,Mill Hill East Station,4,
+172,Morden Station,4,
+178,Newbury Park Station,4,
+183,North Wembley Station,4,
+186,Northwick Park Station,4,
+192,Osterley Station,4,
+198,Perivale Station,4,
+204,Preston Road Station,4,
+209,Queensbury Station,4,
+213,Redbridge Station,4,
+215,Richmond Station,4,
+217,Roding Valley Station,4,
+231,Snaresbrook Station,4,
+235,South Kenton Station,4,
+239,South Woodford Station,4,
+241,Southgate Station,4,
+252,Sudbury Hill Station,4,
+253,Sudbury Town Station,4,
+262,Totteridge & Whetstone Station,4,
+270,Upney Station,4,
+276,Wanstead Station,4,
+282,Wembley Central Station,4,
+283,Wembley Park Station,4,
+286,West Finchley Station,4,
+304,Woodford Station,4,
+305,Woodside Park Station,4,
+21,Becontree Station,5,
+37,Buckhurst Hill Station,5,
+45,Canons Park Station,5,
+57,Cockfosters Station,5,
+66,Dagenham East Station,5,
+67,Dagenham Heathway Station,5,
+80,Eastcote Station,5,
+83,Edgware Station,5,
+115,Harrow & Wealdstone Station,5,
+116,Harrow on the Hill Station,5,
+117,Hatton Cross Station,5,
+123,High Barnet Station,5,
+134,Hounslow West Station,5,
+182,North Harrow Station,5,
+185,Northolt Station,5,
+190,Oakwood Station,5,
+201,Pinner Station,5,
+212,Rayners Lane Station,5,
+222,Ruislip Gardens Station,5,
+233,South Harrow Station,5,
+237,South Ruislip Station,5,
+247,Stanmore Station,5,
+289,West Harrow Station,5,
+68,Debden Station,6,
+85,Elm Park Station,6,
+88,Epping Station,6,
+118,Heathrow Terminal 4 Station,6,
+119,Heathrow Terminal 5,6,
+120,Heathrow Terminals 1_2_3 Station,6,
+127,Hillingdon Station,6,
+131,Hornchurch Station,6,
+136,Ickenham Station,6,
+161,Loughton Station,6,
+187,Northwood Hills Station,6,
+188,Northwood Station,6,
+223,Ruislip Manor Station,6,
+224,Ruislip Station,6,
+257,Theydon Bois Station,6,
+268,Upminster Bridge Station,6,
+269,Upminster Station,6,
+272,Uxbridge Station,6,
+292,West Ruislip Station,6,
+53,Chorleywood Station,7,
+62,Croxley Station,7,
+170,Moor Park Station,7,
+216,Rickmansworth Station,7,
+281,Watford Station,7,
+46,Chalfont & Latimer Station,8,
+6,Amersham Station,9,
+50,Chesham Station,9,
